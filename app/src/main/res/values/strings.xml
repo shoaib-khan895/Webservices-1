@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RetroFit</string>
+    <string name="details">Details:</string>
+    <string name="id">ID</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="get_data">Get Data</string>
+    <string name="enter_id_between_1_10">Enter id between 1-10</string>
+</resources>
